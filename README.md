@@ -1,12 +1,15 @@
-# React + Vite
+🌐 Modern Bank Website
+A sleek, responsive modern bank landing page built with React and Tailwind CSS. Showcases clean UI/UX design principles with a focus on user-friendly layout, mobile responsiveness, and reusable components. Ideal for fintech startups or personal frontend projects.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features:
+Modern, animated UI
+Fully responsive design
+Reusable React components
+Tailwind CSS custom theming
+Dark-themed aesthetic
+Sections: Hero, Features, Stats, Testimonials, CTA, Footer
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📦 Tech Stack:
+React
+Tailwind CSS
+Vite
